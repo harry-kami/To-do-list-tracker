@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Text your client",
+        "status": "not done",
+        "createdAt": "2025-10-18T19:41:51",
+        "updatedAt": "2025-10-18T19:41:51"
+    },
+    {
+        "title": "Make twitter post for Python project",
+        "status": "done",
+        "createdAt": "2025-10-18T19:42:28",
+        "updatedAt": "2025-10-18T19:47:25"
+    },
+    {
+        "title": "Share Task Tracker repo on X",
+        "status": "in progress",
+        "createdAt": "2025-10-18T19:43:35",
+        "updatedAt": "2025-10-18T19:46:27"
+    },
+    {
+        "title": "Finish Scrimba course",
+        "status": "done",
+        "createdAt": "2025-10-18T19:44:27",
+        "updatedAt": "2025-10-18T19:44:38"
+    }
+]
